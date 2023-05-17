@@ -172,7 +172,9 @@ h1.fix-me{
     height:25px;
     width:250px;
   }
-  
+  .container .box img{
+    border-radius: 50%;
+}
   /* Boxes */
   #boxes{
     margin-top:20px;
